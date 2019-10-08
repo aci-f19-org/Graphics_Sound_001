@@ -37,3 +37,6 @@ Jordan Jackson https://github.com/jyjster/ACI-Proj1
 Bingyu Xia https://github.com/BingyuXia17/PROJECT1_KIRA.git
 
 Blake Irons https://github.com/blake-irons/AudioVisualProject.git
+
+
+Bingyu Xia https://github.com/BingyuXia17/Project1_Kira_Resubmit.git
