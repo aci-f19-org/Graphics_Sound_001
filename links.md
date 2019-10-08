@@ -30,6 +30,9 @@ Gloria Zhu https://github.com/zhugejin/GejinZhu-1003.git
 Lewis Kim https://github.com/lewisKkim/ACI_KimLewis_GraphicsSound001
 
 
+Jordan Jackson https://github.com/jyjster/ACI-Proj1
+
+
 ----
 Bingyu Xia https://github.com/BingyuXia17/PROJECT1_KIRA.git
 
