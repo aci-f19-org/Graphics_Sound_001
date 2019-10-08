@@ -34,3 +34,6 @@ Lewis Kim https://github.com/lewisKkim/ACI_KimLewis_GraphicsSound001
 Bingyu Xia https://github.com/BingyuXia17/PROJECT1_KIRA.git
 
 Blake Irons https://github.com/blake-irons/AudioVisualProject.git
+
+
+Bingyu Xia https://github.com/BingyuXia17/Project1_Kira_Resubmit.git
