@@ -41,3 +41,6 @@ Blake Irons https://github.com/blake-irons/AudioVisualProject.git
 
 
 Bingyu Xia https://github.com/BingyuXia17/Project1_Kira_Resubmit.git
+
+
+Bryce Kerr Abraham https://github.com/SirBrect/Graphics-Sound.git
