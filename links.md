@@ -34,10 +34,11 @@ Jordan Jackson https://github.com/jyjster/ACI-Proj1
 
 Morgan Williams https://github.com/willim15/GraphicsProject01
 
+Jerry Huang https://github.com/acijerry/bubblelectric
+
 ----
 Bingyu Xia https://github.com/BingyuXia17/PROJECT1_KIRA.git
 
 Blake Irons https://github.com/blake-irons/AudioVisualProject.git
-
 
 Bingyu Xia https://github.com/BingyuXia17/Project1_Kira_Resubmit.git
